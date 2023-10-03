@@ -1,0 +1,18 @@
+# Input files
+input/
+
+# Output files
+output/
+
+# Environment file
+.env
+
+# data files
+*.csv
+*.xlsx
+
+# Notebook files
+*.ipynb
+
+# Cache
+__pycache__/
