@@ -11,8 +11,5 @@ output/
 *.csv
 *.xlsx
 
-# Notebook files
-*.ipynb
-
 # Cache
 __pycache__/
